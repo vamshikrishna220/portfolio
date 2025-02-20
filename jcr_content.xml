@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+          xmlns:cq="http://www.day.com/jcr/cq/1.0"
+          xmlns:jcr="http://www.jcp.org/jcr/1.0"
+          jcr:primaryType="cq:Page"
+          jcr:contentType="text/html"
+          jcr:title="Vamshi Krishna Daniyakula"
+          subtitle="Senior AEM Developer | AEM Assets & Workflows | DAM | AEM as a Cloud Service | Workfront & AWS Integrations"
+          about="Myself Vamshi, I'm a Senior AEM Developer with extensive expertise in Adobe Experience Manager (AEM), specializing in AEM Assets, Workflows, and Digital Asset Management (DAM). With a strong background in integrating AEM with cloud services and third-party platforms, I have a deep understanding of AEM as a Cloud Service, and have worked with Adobe Workfront, Fusion, and AWS technologies such as S3 and Lambda. Currently, I am contributing to CVS Health, where I leverage my technical skills in building scalable, efficient systems that enhance digital asset management and optimize workflows. I have also played a key role in integrating AWS and AEM with a focus on GraphQL and REST API development. Prior to joining CVS Health, I worked with United Airlines, where I contributed to various large-scale projects. With a rich blend of hands-on experience in AEM, cloud technologies, and API integration, I am committed to delivering high-quality digital solutions that streamline processes and drive innovation.">
+    <jcr:content jcr:primaryType="cq:PageContent"
+                 sling:resourceType="your-project/components/portfolio"/>
+</jcr:root>
